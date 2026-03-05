@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover premium intimate health products with discreet delivery. Your trusted sexual wellness store for quality essentials shipped fast and private.
+
+### About
+https://example.com/about
+Learn how Wild welly revolutionizes sexual wellness shopping with autopilot convenience, expert curation, and judgment-free intimate care for everyone.
+
+### Resources
+https://example.com/resources
+Explore expert resources on intimate wellness, sexual health education, and product guides. Empower your journey with trusted information and care tips.
+
+### Contact
+https://example.com/contact
+Questions about products or orders? Reach our confidential customer care team for personalized sexual wellness support. We&#39;re here to help you thrive.
+
+### Products
+https://example.com/products
+Our Products - Wild welly
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Wild welly
+
+### Category
+https://example.com/category/:slug
+Products - Wild welly
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
